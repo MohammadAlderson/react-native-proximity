@@ -1,5 +1,5 @@
 {
-  "name": "@mohammadalderson/react-native-proximity",
+  "name": "react-native-proximity-custom",
   "version": "3.1.0",
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
