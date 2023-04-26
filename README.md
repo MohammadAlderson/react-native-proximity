@@ -1,4 +1,5 @@
-[![npm version](https://badge.fury.io/js/react-native-proximity.svg)](https://badge.fury.io/js/react-native-proximity)
+# IMPORTANT
+This package is a wrapper for the original react-native-proximity package that solve gradle issue
 
 # react-native-proximity
 
@@ -12,11 +13,11 @@ A React Native wrapper that provides access to the state of the proximity sensor
 
 - Install the library 
 ```shell
-npm install --save react-native-proximity
+npm install --save react-native-proximity-custom
 ```
 - Link the library 
 ```shell
-react-native link react-native-proximity
+react-native link react-native-proximity-custom
 ```
 
 ## Usage
@@ -24,7 +25,7 @@ react-native link react-native-proximity
 Import the library
 
 ```javascript
-import Proximity from 'react-native-proximity';
+import Proximity from 'react-native-proximity-custom';
 ```
 
 ### addListener(callback)
