@@ -1,6 +1,6 @@
 {
-  "name": "react-native-proximity",
-  "version": "3.0.0",
+  "name": "@MohammadAlderson/react-native-proximity",
+  "version": "3.1.0",
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williambout/react-native-proximity.git"
+    "url": "https://github.com/MohammadAlderson/react-native-proximity.git"
   },
   "keywords": [
     "react-native",
@@ -16,10 +16,10 @@
     "native",
     "proximity"
   ],
-  "author": "William Bout <hello@williambout.me> (https://github.com/williambout)",
+  "author": "Mohammad Hooshmand (https://github.com/MohammadAlderson)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/williambout/react-native-proximity/issues"
+    "url": "https://github.com/MohammadAlderson/react-native-proximity"
   },
-  "homepage": "https://github.com/williambout/react-native-proximity"
+  "homepage": "https://github.com/MohammadAlderson/react-native-proximity"
 }
